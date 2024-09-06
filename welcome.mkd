@@ -21,9 +21,9 @@ Por que Escolher [Nome da Solução iPaaS]?
 
 Recursos Principais
 
-    Conectores Pré-Construídos: Utilize uma vasta gama de conectores prontos para aplicações populares e sistemas legados.
-    Design Visual: Crie e gerencie fluxos de integração com uma interface gráfica fácil de usar.
-    Monitoramento e Análise: Acompanhe o desempenho e a saúde das suas integrações em tempo real com relatórios detalhados.
+    ** Conectores Pré-Construídos**: Utilize uma vasta gama de conectores prontos para aplicações populares e sistemas legados.
+    ** Design Visual** : Crie e gerencie fluxos de integração com uma interface gráfica fácil de usar.
+    ** Monitoramento e Análise** : Acompanhe o desempenho e a saúde das suas integrações em tempo real com relatórios detalhados.
 
 Comece Agora
 
